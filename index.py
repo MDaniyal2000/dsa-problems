@@ -14,7 +14,7 @@
 # stationary = 0
 # toys = 0
 # print('Enter 3 digit code for 280 products!')
-# for i in range(1,5):
+# for i in range(1,281):
 #     code = input(f'Enter code for {i}th product: ')
 #     if code[0] == '0':
 #         cards += 1
